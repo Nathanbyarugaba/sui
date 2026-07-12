@@ -5,6 +5,7 @@ skills:
   - sui-and-move-tools
   - move-bytecode-comprehension
   - sui-move-security-review
+  - protocol-verify
 ---
 
 # Auditing Move packages on Sui
